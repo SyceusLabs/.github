@@ -1,8 +1,8 @@
-ELPO Software
+SyceusLabs
 
 Independent Open-Source Software Suite
 
-ELPO develops independent desktop applications designed to make everyday computing more understandable, efficient and controllable.
+SyceusLabs develops independent desktop applications designed to make everyday computing more understandable, efficient and controllable.
 
 Our software
 
@@ -33,8 +33,8 @@ Principles
 
 Contributing
 
-ELPO welcomes contributions, bug reports, translations and documentation improvements.
+SyceusLabs welcomes contributions, bug reports, translations and documentation improvements.
 
 Explore our repositories and join the development process.
 
-ELPO Software — Built independently. Open to everyone.
+SyceusLabs — Built independently. Open to everyone.
