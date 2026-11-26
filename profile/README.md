@@ -10,17 +10,6 @@ SyceusLabs develops independent desktop applications designed to make everyday c
 
 Understand your PC. Monitor performance, diagnose problems and explore system activity.
 
-### Atlas
-
-Manage your workspaces. Organize and restore your working environments.
-
-### Forge
-
-Understand your development environment and diagnose configuration problems.
-
-### Trace
-
-Explore your computer's history and understand what has changed.
 
 ## Principles
 
